@@ -1,6 +1,9 @@
 #Követelményspecifikáció
 
 ## 1. Vezetői összefoglaló
+Egy vidéki középiskola pályázaton nyert bizonyos összeget könyvtárának modernizálására. 
+Ezt egyrészt új könyvek beszerzésére, másrészt a jelenlegi katalógus rendszer szoftveres
+megoldással való lecserélésére szeretnék fordítani. Feladatunk tárgya ez utóbbi.
 
 ## 2. Jelenlegi helyzet leírása
 
