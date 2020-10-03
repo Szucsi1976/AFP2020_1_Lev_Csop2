@@ -31,4 +31,11 @@ könyvek számát és a kölcsönzési határidőt a kölcsönző személy olvas
 ## 8. Irányított és szabad szöveges riportok szövege
 
 ## 9. Fogalomszótár
-
+ETO jelzet: nemzetközi könyvtári osztályozórendszer, amely az ismeretterjesztő és szakdokumentumokat 
+	a tartalmuk szerint csoportosítja, és osztályokba rendezi.
+cutter: a könyvtár polcain illetve a raktárban található helyére utaló azonosító szerző vezetéknevének 
+	kezdőbetűje, és egy szám mely a cím abc sorrendbeli helyére vonatkozik.
+raktári szám: minden, a könyvtárban található könyvpéldányhoz tartozó egyedi 6 számjegyű azonosító.
+ISBN szám: International Standard Book Number, 13 jegyű (a 2007. január 1. előtt kiadott könyveknél 10 jegyű) 
+	azonosítószám, a könyvek és egyéb monografikus jellegű művek nyilvántartására szolgáló nemzetközi 
+	szabványos számrendszerhez tartozó kód.
