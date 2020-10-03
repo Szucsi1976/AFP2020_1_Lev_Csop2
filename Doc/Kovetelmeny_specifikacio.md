@@ -21,7 +21,6 @@ könyvek számát és a kölcsönzési határidőt a kölcsönző személy olvas
 ## 3. Vágyálomrendszer leírása
 
 ## 4. A rendszerre vonatkozó pályázat, törvények, rendeletek, szabványok és ajánlások felsorolása
-
 ## 5. Jelenlegi üzleti folyamatok modellje
 
 ## 6. Igényelt üzleti folyamatok modellje
